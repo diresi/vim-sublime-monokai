@@ -1,3 +1,16 @@
+Based on the work of @ErichDonGubler I've customized the color scheme to my liking (using vim only on tty):
+
+(note that my cursor is orange and shown as full block)
+
+- Search results are highlighted in yellow/reverse video
+- Incremental search results are highlighted in green/reverse video
+- MatchParen is highlighted as reverse video
+
+The original README starts right below the fold:
+
+
+--------------------------------------------------------------------------------------------------------------
+
 # Sublime Monokai for Vim
 
 Looking for screenshots? Scroll down to see!
